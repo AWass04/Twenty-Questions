@@ -1,0 +1,6 @@
+﻿  Question.cpp
+  TwentyQuestions.cpp
+C:\Users\Aaron Wass\Desktop\Twenty Questions 2\Twenty Questions 2\TwentyQuestions.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Aaron Wass\Desktop\Twenty Questions 2\Twenty Questions 2\TwentyQuestions.cpp(31,7): warning C4101: 'userAnswer': unreferenced local variable
+  Generating Code...
+  Twenty Questions 2.vcxproj -> C:\Users\Aaron Wass\Desktop\Twenty Questions 2\x64\Debug\Twenty Questions 2.exe
