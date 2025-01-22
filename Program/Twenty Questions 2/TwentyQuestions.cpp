@@ -51,6 +51,7 @@ int main() {
 		questions[i]->SetUserAnswer();
 	}
 
+	// Display results
 	cout << "\nCorrectly Answered\n";
 	cout << "------------------\n\n";
 	
